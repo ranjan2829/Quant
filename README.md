@@ -1,4 +1,5 @@
 📁 **Welcome to Ranjan's Algorithmic Trading and Quant Research Extravaganza** 📈
+#currently my exams goin on so break in Quant finance 
 
 Greetings, fellow enthusiasts of the financial realm! 👋 This repository is a curated collection of Ranjan's ventures into the exciting domains of algorithmic trading, quantitative strategies, and the intricate dance of data in the world of finance. 🌐💹
 
